@@ -3,7 +3,7 @@
 
 ### Apex
 
-- Apex Managed Sharing -> JobSharing.manualShareRead()
+-
 
 ### Integration
 
